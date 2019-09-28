@@ -1,10 +1,19 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "displayName": "User Distributor",
   "description": "Distribute users to groups based on a percentage split, and store this information in a cookie.",
   "__wm": "VGVtcGxhdGUtQXV0aG9yX1VzZXJEaXN0cmlidXRvci1TaW1vLUFoYXZh",
   "securityGroups": [],
+  "categories": ["UTILITY", "ANALYTICS", "EXPERIMENTATION"],
   "id": "cvt_temp_public_id",
   "type": "TAG",
   "version": 1,
