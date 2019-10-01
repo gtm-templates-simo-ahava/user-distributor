@@ -1,5 +1,9 @@
 homepage: "www.simoahava.com"
 documentation: "https://www.simoahava.com/analytics/user-distributor-tag-template/"
 versions:
+  # Latest version
+  - sha: d1864692298a65d00dd1372d0ab691bf98ccdea8
+    changeNotes: Update template metadata.
+  # Older versions
   - sha: 42a1dd118fd25582b2af2485585125ced4e072b9
     changeNotes: Initial release.
