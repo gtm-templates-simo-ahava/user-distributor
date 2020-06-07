@@ -2,9 +2,11 @@ homepage: "https://www.simoahava.com/"
 documentation: "https://www.simoahava.com/custom-templates/user-distributor/"
 versions:
   # Latest version
+  - sha: 927636ef3177c2fbc44f68284e4811b283c20ffe
+    changeNotes: Fix bug with permissions.
+  # Older versions
   - sha: ee2c3044b7d67525f5bb4ab27922a1c71c07b28b
     changeNotes: Add unit tests
-  # Older versions
   - sha: 798c0482f93689719db0ec0c8fe81508d882e792
     changeNotes: Update brand name.
   - sha: 42a1dd118fd25582b2af2485585125ced4e072b9
