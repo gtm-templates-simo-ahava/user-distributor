@@ -324,6 +324,13 @@ ___WEB_PERMISSIONS___
       },
       "param": [
         {
+          "key": "cookieAccess",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
           "key": "cookieNames",
           "value": {
             "type": 2,
